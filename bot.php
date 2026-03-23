@@ -1,7 +1,7 @@
 <?php
-define('API_KEY',"API_TOKEN");
+define('API_KEY',"8623564912:AAGtrJrIRn7pDIrbG46wxxO-T1bhe-FdmgI");
 
-$builder24 = "ADMIN_ID";
+$builder24 = "6365371142";
 $xostfile = "XOST/FILE";
 $admins=file_get_contents("statistika/admins.txt");
 $admin = explode("\n", $admins);
